@@ -41,7 +41,7 @@ function UnionTwoArrays(array1, array2) {
 }
 
 // Get the resuult union of both arrays
-var result = UnionTwoArrays(ARRA_ONE, ARRAY_TWO);
+var result = UnionTwoArrays(ARRAY_ONE, ARRAY_TWO);
 
 // LOG the result
 console.log(result);
